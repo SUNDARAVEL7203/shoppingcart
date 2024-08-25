@@ -1,0 +1,106 @@
+{
+    "products" : [
+        {
+            "id": 121,
+          "title": "iPhone 5s",
+          "price": 199.99,
+          "total": 799.96,
+          "discountPercentage": 8.38,
+          "discountedTotal": 732.92,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png",
+          "quantity": 1
+        }, 
+       
+        {
+            "id": 128,
+          "title": "Realme C35",
+          "price": 149.99,
+          "quantity": 1,
+          "total": 449.97,
+          "discountPercentage": 3.97,
+          "discountedTotal": 432.11,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
+        },
+        {
+            "id": 126,
+          "title": "Oppo F19 Pro+",
+          "price": 399.99,
+          "quantity": 1,
+          "total": 399.99,
+          "discountPercentage": 14.38,
+          "discountedTotal": 342.47,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20F19%20Pro+/thumbnail.png"
+        },
+        {
+            "id": 134,
+            "title": "Vivo S1",
+            "price": 249.99,
+            "quantity": 1,
+            "total": 999.96,
+            "discountPercentage": 5.64,
+            "discountedTotal": 943.56,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
+        },
+        {
+            "id": 100,
+          "title": "Apple Airpods",
+          "price": 129.99,
+          "quantity": 1,
+          "total": 389.97,
+          "discountPercentage": 12.84,
+          "discountedTotal": 339.9,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png"
+        },
+        {
+            "id": 124,
+            "title": "iPhone X",
+            "price": 899.99,
+            "quantity": 4,
+            "total": 3599.96,
+            "discountPercentage": 8.03,
+            "discountedTotal": 3310.88,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png"
+          },
+          {
+            "id": 132,
+            "title": "Samsung",
+            "price": 499.99,
+            "quantity": 3,
+            "total": 1499.97,
+            "discountPercentage": 8.84,
+            "discountedTotal": 1367.37,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png"
+          },
+          {
+            "id": 108,
+            "title": "iPhone 12 ",
+            "price": 29.99,
+            "quantity": 2,
+            "total": 59.98,
+            "discountPercentage": 14.68,
+            "discountedTotal": 51.17,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png"
+          },
+          {
+            "id": 128,
+            "title": "Realme C35",
+            "price": 149.99,
+            "quantity": 3,
+            "total": 449.97,
+            "discountPercentage": 3.97,
+            "discountedTotal": 432.11,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20C35/thumbnail.png"
+          },
+          {
+            "id": 134,
+            "title": "Vivo S1",
+            "price": 249.99,
+            "quantity": 5,
+            "total": 1249.95,
+            "discountPercentage": 5.64,
+            "discountedTotal": 1179.45,
+            "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png"
+          }
+    ] 
+       
+}
